@@ -1,0 +1,2 @@
+Plant_ID,Plant_Name,SKU,Weekly_Capacity_Units,Assembly_Cost_Per_Unit_USD,Production_Lead_Time_Weeks,Data_Source
+PLANT_01,Central Assembly Plant,AIRPODS_REFERENCE,580,22,0,Hypothetical_Assumption

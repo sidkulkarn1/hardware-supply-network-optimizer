@@ -1,0 +1,14 @@
+Validation_Metric,Value,Status
+Network Datasets,9,PASS
+Products,1,PASS
+Component Groups,3,PASS
+Suppliers,2,PASS
+Manufacturing Plants,1,PASS
+Distribution Centers,2,PASS
+Transport Lanes,4,PASS
+Planning Weeks,12,PASS
+Regional Demand Records,24,PASS
+Total Planned Demand,6180.0,PASS
+Week 1 Inventory Coverage,Verified,PASS
+Cross-Table Relationships,Verified,PASS
+Time-Phased Feasibility,Not Yet Tested,PENDING

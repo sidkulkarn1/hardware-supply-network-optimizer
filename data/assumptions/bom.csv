@@ -1,0 +1,4 @@
+SKU,Component_ID,Component_Name,Units_Per_Finished_Unit,Unit_Of_Measure,Data_Source
+AIRPODS_REFERENCE,ELEC_001,Electronics Assembly,1,Each,Hypothetical_Assumption
+AIRPODS_REFERENCE,BATT_001,Battery Module,1,Each,Hypothetical_Assumption
+AIRPODS_REFERENCE,ENCL_001,Enclosure and Packaging Kit,1,Kit,Hypothetical_Assumption

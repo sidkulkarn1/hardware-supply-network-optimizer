@@ -1,0 +1,13 @@
+Week,Demand_Units,Production_Units,Plant_ID,Planning_Method
+1,515.0,515,PLANT_01,Rule_Based_Baseline
+2,515.0,515,PLANT_01,Rule_Based_Baseline
+3,515.0,515,PLANT_01,Rule_Based_Baseline
+4,515.0,515,PLANT_01,Rule_Based_Baseline
+5,515.0,515,PLANT_01,Rule_Based_Baseline
+6,515.0,515,PLANT_01,Rule_Based_Baseline
+7,515.0,515,PLANT_01,Rule_Based_Baseline
+8,515.0,515,PLANT_01,Rule_Based_Baseline
+9,515.0,515,PLANT_01,Rule_Based_Baseline
+10,515.0,515,PLANT_01,Rule_Based_Baseline
+11,515.0,515,PLANT_01,Rule_Based_Baseline
+12,515.0,0,PLANT_01,Rule_Based_Baseline

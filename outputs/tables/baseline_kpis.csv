@@ -1,0 +1,12 @@
+Metric,Value,Unit
+Total Demand,6180.0,Units
+Fulfilled Demand,6180.0,Units
+Shortages,0.0,Units
+Service Level,100.0,%
+Total Production,5665.0,Units
+Plant Utilization,81.39367816091954,%
+Expedited Freight Share,40.0,%
+Average Ending DC Inventory,45.0,Units
+Final DC Inventory,45.0,Units
+Total Modeled Cost,414139.6999999999,USD
+Modeled Cost Per Fulfilled Unit,67.01289644012944,USD/Unit

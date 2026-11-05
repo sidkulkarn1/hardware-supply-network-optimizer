@@ -1,0 +1,7 @@
+Location_ID,Item_Type,Item_ID,Beginning_Inventory_Units,Unit_Of_Measure,Data_Source
+PLANT_01,Component,ELEC_001,1100,Each,Hypothetical_Assumption
+PLANT_01,Component,BATT_001,1100,Each,Hypothetical_Assumption
+PLANT_01,Component,ENCL_001,1100,Kit,Hypothetical_Assumption
+PLANT_01,Finished_Good,AIRPODS_REFERENCE,0,Each,Hypothetical_Assumption
+DC_EAST,Finished_Good,AIRPODS_REFERENCE,330,Each,Hypothetical_Assumption
+DC_WEST,Finished_Good,AIRPODS_REFERENCE,230,Each,Hypothetical_Assumption

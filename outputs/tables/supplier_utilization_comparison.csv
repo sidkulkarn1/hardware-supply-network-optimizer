@@ -1,0 +1,3 @@
+Supplier_ID,Capacity_12_Weeks,Baseline_Units,Optimized_Units,Baseline_Utilization_Pct,Optimized_Utilization_Pct,Utilization_Change_Pct_Points
+SUP_A,16200,12150,12252,75.0,75.62962962962962,0.6296296296296191
+SUP_B,9000,1545,1443,17.166666666666668,16.03333333333333,-1.1333333333333364

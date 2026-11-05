@@ -1,0 +1,4 @@
+Component_ID,Min_Optimized_Inventory,Average_Optimized_Inventory,Weeks_With_Zero_Buffer
+BATT_001,0,60.416666666666664,9
+ELEC_001,0,75.83333333333333,8
+ENCL_001,0,63.333333333333336,9

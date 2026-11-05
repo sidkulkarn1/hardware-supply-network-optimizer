@@ -1,0 +1,3 @@
+DC_ID,DC_Name,Region,SKU,Storage_Capacity_Units,Holding_Cost_Per_Unit_Per_Week_USD,Data_Source
+DC_EAST,East Distribution Center,East,AIRPODS_REFERENCE,450,1.25,Hypothetical_Assumption
+DC_WEST,West Distribution Center,West,AIRPODS_REFERENCE,400,1.4,Hypothetical_Assumption

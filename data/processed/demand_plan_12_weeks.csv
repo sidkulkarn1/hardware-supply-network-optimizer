@@ -1,0 +1,13 @@
+Week,Week_Start,SKU,Demand_Units,Demand_Source,Scenario
+1,2020-01-05,AIRPODS_REFERENCE,515.0,Project1_Original_Forecast,Baseline
+2,2020-01-12,AIRPODS_REFERENCE,515.0,Project1_Original_Forecast,Baseline
+3,2020-01-19,AIRPODS_REFERENCE,515.0,Project1_Original_Forecast,Baseline
+4,2020-01-26,AIRPODS_REFERENCE,515.0,Project1_Original_Forecast,Baseline
+5,2020-02-02,AIRPODS_REFERENCE,515.0,Flat_Extension_Assumption,Baseline
+6,2020-02-09,AIRPODS_REFERENCE,515.0,Flat_Extension_Assumption,Baseline
+7,2020-02-16,AIRPODS_REFERENCE,515.0,Flat_Extension_Assumption,Baseline
+8,2020-02-23,AIRPODS_REFERENCE,515.0,Flat_Extension_Assumption,Baseline
+9,2020-03-01,AIRPODS_REFERENCE,515.0,Flat_Extension_Assumption,Baseline
+10,2020-03-08,AIRPODS_REFERENCE,515.0,Flat_Extension_Assumption,Baseline
+11,2020-03-15,AIRPODS_REFERENCE,515.0,Flat_Extension_Assumption,Baseline
+12,2020-03-22,AIRPODS_REFERENCE,515.0,Flat_Extension_Assumption,Baseline

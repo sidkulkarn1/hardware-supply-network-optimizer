@@ -1,0 +1,3 @@
+Supplier_ID,Ordered_Units,Available_Capacity_Units,Utilization_Pct
+SUP_A,12150,16200,75.0
+SUP_B,1545,9000,17.166666666666668

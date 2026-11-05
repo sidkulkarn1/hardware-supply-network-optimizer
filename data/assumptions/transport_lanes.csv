@@ -1,0 +1,5 @@
+Lane_ID,Origin_Plant_ID,Destination_DC_ID,Transport_Mode,Cost_Per_Unit_USD,Transit_Time_Weeks,Weekly_Lane_Capacity_Units,SKU,Data_Source
+LANE_001,PLANT_01,DC_EAST,Standard,3.5,1,350,AIRPODS_REFERENCE,Hypothetical_Assumption
+LANE_002,PLANT_01,DC_EAST,Expedited,7.5,0,250,AIRPODS_REFERENCE,Hypothetical_Assumption
+LANE_003,PLANT_01,DC_WEST,Standard,5.0,2,300,AIRPODS_REFERENCE,Hypothetical_Assumption
+LANE_004,PLANT_01,DC_WEST,Expedited,10.0,1,250,AIRPODS_REFERENCE,Hypothetical_Assumption

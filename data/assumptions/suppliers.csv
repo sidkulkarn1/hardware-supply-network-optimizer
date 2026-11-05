@@ -1,0 +1,7 @@
+Supplier_ID,Supplier_Name,Component_ID,Unit_Cost_USD,Weekly_Capacity_Units,Lead_Time_Weeks,Eligible,Data_Source
+SUP_A,Primary Supplier,ELEC_001,32,450,2,True,Hypothetical_Assumption
+SUP_A,Primary Supplier,BATT_001,14,450,2,True,Hypothetical_Assumption
+SUP_A,Primary Supplier,ENCL_001,8,450,2,True,Hypothetical_Assumption
+SUP_B,Backup Supplier,ELEC_001,40,250,1,True,Hypothetical_Assumption
+SUP_B,Backup Supplier,BATT_001,18,250,1,True,Hypothetical_Assumption
+SUP_B,Backup Supplier,ENCL_001,11,250,1,True,Hypothetical_Assumption
