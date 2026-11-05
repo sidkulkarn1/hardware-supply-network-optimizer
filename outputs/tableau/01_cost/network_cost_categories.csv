@@ -1,0 +1,9 @@
+Cost_Category,Plan,Cost_USD,Category_Order
+Procurement,Baseline,254235.0,1
+Manufacturing,Baseline,124630.0,2
+Transportation,Baseline,34556.5,3
+DC Inventory Holding,Baseline,718.2,4
+Procurement,Optimized,253725.0,1
+Manufacturing,Optimized,124630.0,2
+Transportation,Optimized,25656.5,3
+DC Inventory Holding,Optimized,119.69999999999999,4

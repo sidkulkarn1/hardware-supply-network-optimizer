@@ -1,0 +1,5 @@
+Experiment,Demand_Growth_Pct,Total_Demand_Units,Additional_Demand_Units,Status,Optimized_Cost_USD,Incremental_Cost_USD,Incremental_Cost_Per_Added_Unit_USD
+Demand_Growth_Plus_5Pct,5,6480,300,Optimal,433341.45,29210.25,97.3675
+Demand_Growth_Plus_10Pct,10,6804,624,Optimal,467764.55,63633.34999999998,101.9765224358974
+Demand_Growth_Plus_15Pct,15,7104,924,infeasible,,,
+Demand_Growth_Plus_20Pct,20,7416,1236,infeasible,,,

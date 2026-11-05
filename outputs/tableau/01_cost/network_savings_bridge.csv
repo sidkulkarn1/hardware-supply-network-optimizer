@@ -1,0 +1,5 @@
+Cost_Category,Baseline_Cost_USD,Optimized_Cost_USD,Savings_USD,Category_Order,Savings_Share_of_Net_Pct
+Procurement,254235.0,253725.0,510.0,1,5.095668681620622
+Manufacturing,124630.0,124630.0,0.0,2,0.0
+Transportation,34556.5,25656.5,8900.0,3,88.92441424788929
+DC Inventory Holding,718.2,119.69999999999999,598.5,4,5.9799170704900835

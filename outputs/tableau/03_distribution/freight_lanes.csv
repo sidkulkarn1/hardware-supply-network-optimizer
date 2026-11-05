@@ -1,0 +1,5 @@
+Lane_ID,Baseline_Units,Baseline_Cost_USD,Optimized_Units,Optimized_Cost_USD,Destination_DC_ID,Transport_Mode,Cost_Per_Unit_USD,Transit_Time_Weeks,Unit_Change,Freight_Savings_USD
+LANE_001,3399,11896.5,3019,10566.5,DC_EAST,Standard,3.5,1,-380,1330.0
+LANE_002,0,0.0,380,2850.0,DC_EAST,Expedited,7.5,0,380,-2850.0
+LANE_003,0,0.0,2084,10420.0,DC_WEST,Standard,5.0,2,2084,-10420.0
+LANE_004,2266,22660.0,182,1820.0,DC_WEST,Expedited,10.0,1,-2084,20840.0

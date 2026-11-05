@@ -1,0 +1,3 @@
+Plan,Total_Network_Cost_USD,Customer_Demand_Units,Fulfilled_Units,Service_Level_Pct,Shipped_Units,Expedited_Units,Expedited_Share_Pct,Avg_Ending_DC_Inventory,Min_Storage_Headroom,DC_Holding_Cost_USD,Freight_Cost_USD,Baseline_Reference_Cost_USD,Savings_vs_Baseline_USD,Cost_Improvement_Pct,Plan_Order
+Baseline,414139.7,6180,6180,100.0,5665,2266,40.0,45.0,120,718.1999999999999,34556.5,414139.7,0.0,0.0,1
+Optimized,404131.2,6180,6180,100.0,5665,562,9.920564872021183,7.5,120,119.69999999999999,25656.5,414139.7,10008.5,2.4166965881319755,2

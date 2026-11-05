@@ -1,0 +1,5 @@
+Experiment,Standard_Freight_Change_Pct,Status,Optimized_Cost_USD,Cost_Change_USD,Standard_Shipment_Units,Expedited_Shipment_Units,Freight_Price_Effect_USD,Reoptimization_Decision_Value_USD
+Standard_Freight_Minus_25Pct,-25,Optimal,398884.575,-5246.625,5103,562,-5246.625,0.0
+Standard_Freight_Plus_25Pct,25,Optimal,409215.325,5084.125,4843,822,5019.125,-65.0
+Standard_Freight_Plus_50Pct,50,Optimal,413920.45,9789.25,4128,1537,8705.25,-1084.0
+Standard_Freight_Plus_100Pct,100,Optimal,421925.2,17794.0,3204,2461,11634.0,-6160.0

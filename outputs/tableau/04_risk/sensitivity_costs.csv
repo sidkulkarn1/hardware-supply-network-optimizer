@@ -1,0 +1,65 @@
+Experiment,Category,Cost_Category,Cost_USD
+Reference,Reference,Procurement,253725.0
+Reference,Reference,Manufacturing,124630.0
+Reference,Reference,Transportation,25656.5
+Reference,Reference,DC Inventory Holding,119.69999999999999
+Supplier_SUP_A_Plus_10Pct,Supplier Capacity,Procurement,249375.0
+Supplier_SUP_A_Plus_10Pct,Supplier Capacity,Manufacturing,124630.0
+Supplier_SUP_A_Plus_10Pct,Supplier Capacity,Transportation,25220.5
+Supplier_SUP_A_Plus_10Pct,Supplier Capacity,DC Inventory Holding,119.69999999999999
+Supplier_SUP_A_Plus_20Pct,Supplier Capacity,Procurement,246750.0
+Supplier_SUP_A_Plus_20Pct,Supplier Capacity,Manufacturing,124630.0
+Supplier_SUP_A_Plus_20Pct,Supplier Capacity,Transportation,25120.5
+Supplier_SUP_A_Plus_20Pct,Supplier Capacity,DC Inventory Holding,119.69999999999999
+Supplier_SUP_A_Plus_30Pct,Supplier Capacity,Procurement,246510.0
+Supplier_SUP_A_Plus_30Pct,Supplier Capacity,Manufacturing,124630.0
+Supplier_SUP_A_Plus_30Pct,Supplier Capacity,Transportation,24988.5
+Supplier_SUP_A_Plus_30Pct,Supplier Capacity,DC Inventory Holding,119.69999999999999
+Supplier_SUP_B_Plus_10Pct,Supplier Capacity,Procurement,253725.0
+Supplier_SUP_B_Plus_10Pct,Supplier Capacity,Manufacturing,124630.0
+Supplier_SUP_B_Plus_10Pct,Supplier Capacity,Transportation,25656.5
+Supplier_SUP_B_Plus_10Pct,Supplier Capacity,DC Inventory Holding,119.69999999999999
+Supplier_SUP_B_Plus_20Pct,Supplier Capacity,Procurement,253725.0
+Supplier_SUP_B_Plus_20Pct,Supplier Capacity,Manufacturing,124630.0
+Supplier_SUP_B_Plus_20Pct,Supplier Capacity,Transportation,25656.5
+Supplier_SUP_B_Plus_20Pct,Supplier Capacity,DC Inventory Holding,119.69999999999999
+Supplier_SUP_B_Plus_30Pct,Supplier Capacity,Procurement,253725.0
+Supplier_SUP_B_Plus_30Pct,Supplier Capacity,Manufacturing,124630.0
+Supplier_SUP_B_Plus_30Pct,Supplier Capacity,Transportation,25656.5
+Supplier_SUP_B_Plus_30Pct,Supplier Capacity,DC Inventory Holding,119.69999999999999
+Manufacturing_Plus_5Pct,Manufacturing Capacity,Procurement,253725.0
+Manufacturing_Plus_5Pct,Manufacturing Capacity,Manufacturing,124630.0
+Manufacturing_Plus_5Pct,Manufacturing Capacity,Transportation,25416.5
+Manufacturing_Plus_5Pct,Manufacturing Capacity,DC Inventory Holding,119.69999999999999
+Manufacturing_Plus_10Pct,Manufacturing Capacity,Procurement,253725.0
+Manufacturing_Plus_10Pct,Manufacturing Capacity,Manufacturing,124630.0
+Manufacturing_Plus_10Pct,Manufacturing Capacity,Transportation,25300.5
+Manufacturing_Plus_10Pct,Manufacturing Capacity,DC Inventory Holding,119.69999999999999
+Manufacturing_Plus_20Pct,Manufacturing Capacity,Procurement,253725.0
+Manufacturing_Plus_20Pct,Manufacturing Capacity,Manufacturing,124630.0
+Manufacturing_Plus_20Pct,Manufacturing Capacity,Transportation,25148.5
+Manufacturing_Plus_20Pct,Manufacturing Capacity,DC Inventory Holding,119.69999999999999
+Standard_Freight_Minus_25Pct,Freight Economics,Procurement,253725.0
+Standard_Freight_Minus_25Pct,Freight Economics,Manufacturing,124630.0
+Standard_Freight_Minus_25Pct,Freight Economics,Transportation,20409.875
+Standard_Freight_Minus_25Pct,Freight Economics,DC Inventory Holding,119.69999999999999
+Standard_Freight_Plus_25Pct,Freight Economics,Procurement,252750.0
+Standard_Freight_Plus_25Pct,Freight Economics,Manufacturing,124630.0
+Standard_Freight_Plus_25Pct,Freight Economics,Transportation,31715.625
+Standard_Freight_Plus_25Pct,Freight Economics,DC Inventory Holding,119.69999999999999
+Standard_Freight_Plus_50Pct,Freight Economics,Procurement,250800.0
+Standard_Freight_Plus_50Pct,Freight Economics,Manufacturing,124630.0
+Standard_Freight_Plus_50Pct,Freight Economics,Transportation,38370.75
+Standard_Freight_Plus_50Pct,Freight Economics,DC Inventory Holding,119.69999999999999
+Standard_Freight_Plus_100Pct,Freight Economics,Procurement,250485.0
+Standard_Freight_Plus_100Pct,Freight Economics,Manufacturing,124630.0
+Standard_Freight_Plus_100Pct,Freight Economics,Transportation,46690.5
+Standard_Freight_Plus_100Pct,Freight Economics,DC Inventory Holding,119.69999999999999
+Demand_Growth_Plus_5Pct,Demand Growth,Procurement,273450.0
+Demand_Growth_Plus_5Pct,Demand Growth,Manufacturing,131230.0
+Demand_Growth_Plus_5Pct,Demand Growth,Transportation,28574.5
+Demand_Growth_Plus_5Pct,Demand Growth,DC Inventory Holding,86.94999999999999
+Demand_Growth_Plus_10Pct,Demand Growth,Procurement,293541.0
+Demand_Growth_Plus_10Pct,Demand Growth,Manufacturing,138358.0
+Demand_Growth_Plus_10Pct,Demand Growth,Transportation,35801.5
+Demand_Growth_Plus_10Pct,Demand Growth,DC Inventory Holding,64.05
