@@ -1,0 +1,21 @@
+Scenario,Cost_Category,Cost_USD
+Reference,Procurement,253725.0
+Reference,Manufacturing,124630.0
+Reference,Transportation,25656.5
+Reference,DC Inventory Holding,119.69999999999999
+Supplier_Disruption,Procurement,267225.0
+Supplier_Disruption,Manufacturing,124630.0
+Supplier_Disruption,Transportation,25656.5
+Supplier_Disruption,DC Inventory Holding,119.69999999999999
+Demand_Surge,Procurement,264489.0
+Demand_Surge,Manufacturing,128062.0
+Demand_Surge,Transportation,26297.0
+Demand_Surge,DC Inventory Holding,119.69999999999999
+Manufacturing_Disruption,Procurement,252150.0
+Manufacturing_Disruption,Manufacturing,124630.0
+Manufacturing_Disruption,Transportation,28841.5
+Manufacturing_Disruption,DC Inventory Holding,119.69999999999999
+Freight_Inflation,Procurement,250800.0
+Freight_Inflation,Manufacturing,124630.0
+Freight_Inflation,Transportation,38370.75
+Freight_Inflation,DC Inventory Holding,119.69999999999999

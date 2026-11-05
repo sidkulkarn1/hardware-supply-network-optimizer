@@ -1,0 +1,9 @@
+Plan,DC_ID,Transport_Mode,Ship_Units,Freight_Cost_USD,Mode_Share_Pct
+Baseline,DC_EAST,Standard,3399,11896.5,100.0
+Baseline,DC_EAST,Expedited,0,0.0,0.0
+Baseline,DC_WEST,Standard,0,0.0,0.0
+Baseline,DC_WEST,Expedited,2266,22660.0,100.0
+Optimized,DC_EAST,Standard,3019,10566.5,88.82024124742571
+Optimized,DC_EAST,Expedited,380,2850.0,11.179758752574287
+Optimized,DC_WEST,Standard,2084,10420.0,91.96822594880847
+Optimized,DC_WEST,Expedited,182,1820.0,8.031774051191528

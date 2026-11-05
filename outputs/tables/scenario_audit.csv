@@ -1,0 +1,6 @@
+Scenario,Solver_Status,Independent_Audit
+Reference,Optimal,PASSED
+Supplier_Disruption,Optimal,PASSED
+Demand_Surge,Optimal,PASSED
+Manufacturing_Disruption,Optimal,PASSED
+Freight_Inflation,Optimal,PASSED

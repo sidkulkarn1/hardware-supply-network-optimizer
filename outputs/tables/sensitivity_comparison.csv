@@ -1,0 +1,19 @@
+Experiment,Category,Lever,Change_Pct,Status,Independent_Audit,Optimized_Cost_USD,Cost_Change_USD,Cost_Change_Pct,Extra_Weekly_Capacity,Additional_Customer_Demand_Units
+Reference,Reference,Original Network,0,Optimal,PASSED,404131.2,0.0,0.0,0,0
+Supplier_SUP_A_Plus_10Pct,Supplier Capacity,SUP_A,10,Optimal,PASSED,399345.2,-4786.0,-1.1842688710992866,135,0
+Supplier_SUP_A_Plus_20Pct,Supplier Capacity,SUP_A,20,Optimal,PASSED,396620.2,-7511.0,-1.8585548455551069,270,0
+Supplier_SUP_A_Plus_30Pct,Supplier Capacity,SUP_A,30,Optimal,PASSED,396248.2,-7883.0,-1.9506041602331123,405,0
+Supplier_SUP_B_Plus_10Pct,Supplier Capacity,SUP_B,10,Optimal,PASSED,404131.2,0.0,0.0,75,0
+Supplier_SUP_B_Plus_20Pct,Supplier Capacity,SUP_B,20,Optimal,PASSED,404131.2,0.0,0.0,150,0
+Supplier_SUP_B_Plus_30Pct,Supplier Capacity,SUP_B,30,Optimal,PASSED,404131.2,0.0,0.0,225,0
+Manufacturing_Plus_5Pct,Manufacturing Capacity,Assembly Plant,5,Optimal,PASSED,403891.2,-240.0,-0.05938665463097133,29,0
+Manufacturing_Plus_10Pct,Manufacturing Capacity,Assembly Plant,10,Optimal,PASSED,403775.2,-356.0,-0.08809020436927413,58,0
+Manufacturing_Plus_20Pct,Manufacturing Capacity,Assembly Plant,20,Optimal,PASSED,403623.2,-508.0,-0.12570175230222264,116,0
+Standard_Freight_Minus_25Pct,Freight Economics,Standard Freight,-25,Optimal,PASSED,398884.575,-5246.625,-1.2982479452217497,0,0
+Standard_Freight_Plus_25Pct,Freight Economics,Standard Freight,25,Optimal,PASSED,409215.325,5084.125,1.2580382311486962,0,0
+Standard_Freight_Plus_50Pct,Freight Economics,Standard Freight,50,Optimal,PASSED,413920.45,9789.25,2.422295036859317,0,0
+Standard_Freight_Plus_100Pct,Freight Economics,Standard Freight,100,Optimal,PASSED,421925.2,17794.0,4.403025552097932,0,0
+Demand_Growth_Plus_5Pct,Demand Growth,All Regions,5,Optimal,PASSED,433341.45,29210.25,7.227912618476376,0,300
+Demand_Growth_Plus_10Pct,Demand Growth,All Regions,10,Optimal,PASSED,467764.55,63633.34999999998,15.745715747757158,0,624
+Demand_Growth_Plus_15Pct,Demand Growth,All Regions,15,infeasible,NOT_APPLICABLE,,,,0,924
+Demand_Growth_Plus_20Pct,Demand Growth,All Regions,20,infeasible,NOT_APPLICABLE,,,,0,1236

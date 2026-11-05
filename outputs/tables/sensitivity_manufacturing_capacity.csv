@@ -1,0 +1,4 @@
+Experiment,Capacity_Increase_Pct,Original_Weekly_Capacity,New_Weekly_Capacity,Extra_Weekly_Capacity,Status,Optimized_Cost_USD,Savings_USD
+Manufacturing_Plus_5Pct,5,580,609,29,Optimal,403891.2,240.0
+Manufacturing_Plus_10Pct,10,580,638,58,Optimal,403775.2,356.0
+Manufacturing_Plus_20Pct,20,580,696,116,Optimal,403623.2,508.0

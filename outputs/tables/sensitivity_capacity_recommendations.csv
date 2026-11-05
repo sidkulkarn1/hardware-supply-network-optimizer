@@ -1,0 +1,10 @@
+Category,Lever,Change_Pct,Extra_Weekly_Capacity,Extra_Capacity_Unit_Weeks,Total_Savings_USD,Maximum_12_Week_Investment_USD,Break_Even_Premium_Per_Unit_Week_USD,Interval_Savings_USD,Interval_Capacity_Unit_Weeks,Marginal_Value_Per_Unit_Week_USD,Economic_Interpretation
+Supplier Capacity,SUP_A,30,405,4860,7883.0,7883.0,1.6220164609053498,372.0,1620,0.22962962962962963,Positive modeled value
+Supplier Capacity,SUP_A,20,270,3240,7511.0,7511.0,2.31820987654321,2725.0,1620,1.6820987654320987,Positive modeled value
+Supplier Capacity,SUP_A,10,135,1620,4786.0,4786.0,2.954320987654321,4786.0,1620,2.954320987654321,Positive modeled value
+Manufacturing Capacity,Assembly Plant,20,116,1392,508.0,508.0,0.3649425287356322,152.0,696,0.21839080459770116,Positive modeled value
+Manufacturing Capacity,Assembly Plant,10,58,696,356.0,356.0,0.5114942528735632,116.0,348,0.3333333333333333,Positive modeled value
+Manufacturing Capacity,Assembly Plant,5,29,348,240.0,240.0,0.6896551724137931,240.0,348,0.6896551724137931,Positive modeled value
+Supplier Capacity,SUP_B,10,75,900,0.0,0.0,0.0,0.0,900,0.0,No demonstrated savings
+Supplier Capacity,SUP_B,20,150,1800,0.0,0.0,0.0,0.0,900,0.0,No demonstrated savings
+Supplier Capacity,SUP_B,30,225,2700,0.0,0.0,0.0,0.0,900,0.0,No demonstrated savings

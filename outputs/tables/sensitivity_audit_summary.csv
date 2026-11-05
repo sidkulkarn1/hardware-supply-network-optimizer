@@ -1,0 +1,19 @@
+Experiment,Category,Status,Independent_Audit
+Reference,Reference,Optimal,PASSED
+Supplier_SUP_A_Plus_10Pct,Supplier Capacity,Optimal,PASSED
+Supplier_SUP_A_Plus_20Pct,Supplier Capacity,Optimal,PASSED
+Supplier_SUP_A_Plus_30Pct,Supplier Capacity,Optimal,PASSED
+Supplier_SUP_B_Plus_10Pct,Supplier Capacity,Optimal,PASSED
+Supplier_SUP_B_Plus_20Pct,Supplier Capacity,Optimal,PASSED
+Supplier_SUP_B_Plus_30Pct,Supplier Capacity,Optimal,PASSED
+Manufacturing_Plus_5Pct,Manufacturing Capacity,Optimal,PASSED
+Manufacturing_Plus_10Pct,Manufacturing Capacity,Optimal,PASSED
+Manufacturing_Plus_20Pct,Manufacturing Capacity,Optimal,PASSED
+Standard_Freight_Minus_25Pct,Freight Economics,Optimal,PASSED
+Standard_Freight_Plus_25Pct,Freight Economics,Optimal,PASSED
+Standard_Freight_Plus_50Pct,Freight Economics,Optimal,PASSED
+Standard_Freight_Plus_100Pct,Freight Economics,Optimal,PASSED
+Demand_Growth_Plus_5Pct,Demand Growth,Optimal,PASSED
+Demand_Growth_Plus_10Pct,Demand Growth,Optimal,PASSED
+Demand_Growth_Plus_15Pct,Demand Growth,infeasible,NOT_APPLICABLE
+Demand_Growth_Plus_20Pct,Demand Growth,infeasible,NOT_APPLICABLE

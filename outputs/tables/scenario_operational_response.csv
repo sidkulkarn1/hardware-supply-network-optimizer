@@ -1,0 +1,6 @@
+Scenario,Supplier_A_Orders,Supplier_B_Orders,Production_Units,Peak_Weekly_Production,Weeks_At_Plant_Capacity,Expedited_Shipment_Units,Expedited_Share_Pct,Zero_Component_Buffer_Weeks
+Reference,12252,1443,5665,580,3,562,9.920564872021183,26
+Supplier_Disruption,9552,4143,5665,580,6,562,9.920564872021183,18
+Demand_Surge,12252,1911,5821,580,5,562,9.65469850541144,20
+Manufacturing_Disruption,12567,1128,5665,580,8,1356,23.936451897616944,22
+Freight_Inflation,12837,858,5665,580,3,1537,27.131509267431596,32

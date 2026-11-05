@@ -1,0 +1,7 @@
+Supplier,Capacity_Increase_Pct,Extra_Weekly_Capacity,Status,Optimized_Cost_USD,Savings_USD
+SUP_A,10,135,Optimal,399345.2,4786.0
+SUP_A,20,270,Optimal,396620.2,7511.0
+SUP_A,30,405,Optimal,396248.2,7883.0
+SUP_B,10,75,Optimal,404131.2,0.0
+SUP_B,20,150,Optimal,404131.2,0.0
+SUP_B,30,225,Optimal,404131.2,0.0

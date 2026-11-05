@@ -1,0 +1,17 @@
+Experiment,Category,Supplier_A_Orders,Supplier_B_Orders,Total_Production_Units,Peak_Weekly_Production,Total_Shipped_Units,Expedited_Shipment_Units,Expedited_Share_Pct,Average_DC_Ending_Inventory
+Reference,Reference,12252,1443,5665,580,5665,562,9.920564872021183,7.5
+Supplier_SUP_A_Plus_10Pct,Supplier Capacity,13122,573,5665,580,5665,453,7.996469549867608,7.5
+Supplier_SUP_A_Plus_20Pct,Supplier Capacity,13647,48,5665,580,5665,428,7.555163283318624,7.5
+Supplier_SUP_A_Plus_30Pct,Supplier Capacity,13695,0,5665,580,5665,395,6.972639011473963,7.5
+Supplier_SUP_B_Plus_10Pct,Supplier Capacity,12252,1443,5665,580,5665,562,9.920564872021183,7.5
+Supplier_SUP_B_Plus_20Pct,Supplier Capacity,12252,1443,5665,580,5665,562,9.920564872021183,7.5
+Supplier_SUP_B_Plus_30Pct,Supplier Capacity,12252,1443,5665,580,5665,562,9.920564872021183,7.5
+Manufacturing_Plus_5Pct,Manufacturing Capacity,12252,1443,5665,609,5665,502,8.86142983230362,7.5
+Manufacturing_Plus_10Pct,Manufacturing Capacity,12252,1443,5665,638,5665,473,8.349514563106796,7.5
+Manufacturing_Plus_20Pct,Manufacturing Capacity,12252,1443,5665,696,5665,435,7.67872903795234,7.5
+Standard_Freight_Minus_25Pct,Freight Economics,12252,1443,5665,580,5665,562,9.920564872021183,7.5
+Standard_Freight_Plus_25Pct,Freight Economics,12447,1248,5665,580,5665,822,14.510150044130626,7.5
+Standard_Freight_Plus_50Pct,Freight Economics,12837,858,5665,580,5665,1537,27.131509267431596,7.5
+Standard_Freight_Plus_100Pct,Freight Economics,12900,795,5665,580,5665,2461,43.44218887908208,7.5
+Demand_Growth_Plus_5Pct,Demand Growth,12447,2148,5965,580,5965,979,16.412405699916178,5.416666666666667
+Demand_Growth_Plus_10Pct,Demand Growth,12900,2667,6289,580,6289,2425,38.559389410081096,4.0
