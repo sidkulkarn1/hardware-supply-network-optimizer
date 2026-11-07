@@ -228,20 +228,20 @@ The analytical workflow consists of ten Jupyter notebooks.
 | 09 | Tableau Reporting Data Preparation |
 | 10 | Executive Summary & Final Validation |
 
+
 ### Mathematical Objective
 
 Minimize total modeled network cost:
 
-\[
-\text{Minimize Total Cost} =
-\text{Procurement Cost}
-+
-\text{Manufacturing Cost}
-+
-\text{Transportation Cost}
-+
-\text{Inventory Holding Cost}
-\]
+$$
+\begin{aligned}
+\min Z ={}& C_{\text{procurement}} \\
+          &+ C_{\text{manufacturing}} \\
+          &+ C_{\text{transportation}} \\
+          &+ C_{\text{inventory holding}}
+\end{aligned}
+$$
+
 
 ### Primary Decision Variables
 
