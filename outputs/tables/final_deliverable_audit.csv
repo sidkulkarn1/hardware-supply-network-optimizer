@@ -1,0 +1,22 @@
+Category,Deliverable,Found,Location
+Notebook,Notebook 01,True,notebooks/01_project1_demand_integration.ipynb
+Notebook,Notebook 02,True,notebooks/02_supply_network_data.ipynb
+Notebook,Notebook 03,True,notebooks/03_baseline_supply_plan.ipynb
+Notebook,Notebook 04,True,notebooks/04_optimization_model.ipynb
+Notebook,Notebook 05,True,notebooks/05_supplier_manufacturing_constraints.ipynb
+Notebook,Notebook 06,True,notebooks/06_distribution_transportation.ipynb
+Notebook,Notebook 07,True,notebooks/07_scenario_analysis.ipynb
+Notebook,Notebook 08,True,notebooks/08_sensitivity_analysis.ipynb
+Notebook,Notebook 09,True,notebooks/09_dashboard_reporting.ipynb
+Notebook,Notebook 10,True,notebooks/10_executive_summary.ipynb
+Reporting CSV,baseline_vs_optimized.csv,True,outputs/tables/baseline_vs_optimized.csv
+Reporting CSV,scenario_comparison.csv,True,outputs/tables/scenario_comparison.csv
+Reporting CSV,executive_operational_kpis.csv,True,outputs/tables/executive_operational_kpis.csv
+Reporting CSV,executive_disruption_ranking.csv,True,outputs/tables/executive_disruption_ranking.csv
+Reporting CSV,executive_capacity_recommendations.csv,True,outputs/tables/executive_capacity_recommendations.csv
+Reporting CSV,executive_demand_feasibility.csv,True,outputs/tables/executive_demand_feasibility.csv
+Dashboard PDF,dashboard_01_network_cost.pdf,True,outputs/figures/dashboard_01_network_cost.pdf
+Dashboard PDF,dashboard_02_sourcing_manufacturing.pdf,True,outputs/figures/dashboard_02_sourcing_manufacturing.pdf
+Dashboard PDF,dashboard_03_transportation_distribution.pdf,True,outputs/figures/dashboard_03_transportation_distribution.pdf
+Dashboard PDF,dashboard_04_risk_scenario_sensitivity.pdf,True,outputs/figures/dashboard_04_risk_scenario_sensitivity.pdf
+Documentation,README.md,True,README.md

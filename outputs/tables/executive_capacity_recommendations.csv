@@ -1,0 +1,4 @@
+category,lever,change_pct,extra_weekly_capacity,extra_capacity_unit_weeks,total_savings_usd,maximum_12_week_investment_usd,break_even_premium_per_unit_week_usd,interval_savings_usd,interval_capacity_unit_weeks,marginal_value_per_unit_week_usd
+Supplier Capacity,SUP_A,30,405,4860,7883.0,7883.0,1.6220164609053498,372.0,1620,0.22962962962962963
+Manufacturing Capacity,Assembly Plant,20,116,1392,508.0,508.0,0.3649425287356322,152.0,696,0.21839080459770116
+Supplier Capacity,SUP_B,10,75,900,0.0,0.0,0.0,0.0,900,0.0
