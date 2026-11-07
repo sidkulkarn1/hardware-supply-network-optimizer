@@ -672,10 +672,8 @@ Potential extensions include:
 - Explicit supplier capacity investment costs.
 - More granular demand-growth feasibility testing.
 - Multi-objective cost versus resilience optimization.
-- Reusable optimization modules under `src/`.
 - Automated unit and integration tests.
 - Additional reproducibility checks.
-- Expanded Tableau and portfolio website presentation.
 
 ---
 
