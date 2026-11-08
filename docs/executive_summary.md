@@ -318,4 +318,4 @@ hardware supply chain decision support.
 
 ---
 
-*End of Project 2 — V1 Executive Summary*
+
